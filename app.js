@@ -19,5 +19,3 @@ app.listen(port, (error) => {
 
   console.log(`Servidor en funcionament a http://localhost:${port}`);
 });
-
-console.log('Probamos esta ' + variable + ' que no existe');
